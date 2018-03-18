@@ -6,7 +6,7 @@ This assignment is to create indices and experiment with runtimes, in addition t
 ```
 docker run -p 5432:5432 --name data jegp/soft2018-data
 ```
-## [Assignment]()
+## [Assignment](https://github.com/DanielHauge/DBEX6/blob/master/Database%20assignment%206%20-%20Indices%20and%20runtimes%20_%20DFH.ipynb)
 The assignment is written in jupyter notebook, which can be run with this docker command
 
 ```
@@ -15,4 +15,4 @@ docker run -p 8888:8888 --name jupyter -v `pwd`:/home/jovyan -it jegp/soft2018-j
 
 To connect with data from another container via dockers dns, a link can be established with ```--link [containername]```.
 
-[CLICK HERE OR HEADER FOR THE ASSIGNMENT]()
+[CLICK HERE OR HEADER FOR THE ASSIGNMENT](https://github.com/DanielHauge/DBEX6/blob/master/Database%20assignment%206%20-%20Indices%20and%20runtimes%20_%20DFH.ipynb)
